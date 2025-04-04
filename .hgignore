@@ -1,0 +1,13 @@
+syntax: glob
+
+*.obj
+*.exe
+*.rar
+*pyd
+*~
+*.\#*
+\#*\#
+build
+path.txt
+remake
+PythonModules

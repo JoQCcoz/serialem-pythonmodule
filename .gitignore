@@ -1,0 +1,11 @@
+*.obj
+*.exe
+*.rar
+*pyd
+*~
+*.\#*
+\#*\#
+path.txt
+build
+remake
+PythonModules
